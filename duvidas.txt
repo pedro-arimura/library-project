@@ -1,0 +1,6 @@
+*Dúvidas que surgiram*
+
+Como procurar e selecionar informações dentro de um json com Python
+Como fazer a segurança das informações que foram enviadas, a validação das mesmas
+Como printar as listas
+Formato em que eu estava recebendo o json
